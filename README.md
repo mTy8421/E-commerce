@@ -20,7 +20,7 @@ git clone https://github.com/mTy8421/Arduino-Nano-ESP32.git
 หรือ ผ่าน [github cli](https://cli.github.com/)
 
 ```git
-gh repo clone mTy8421/Arduino-Nano-ESP32
+gh repo clone mTy8421/E-commerce
 ```
 
 > ใช้สำหรับพัฒนาและศึกษาได้เท่านั้น!!
