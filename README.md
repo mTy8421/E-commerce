@@ -24,5 +24,3 @@ gh repo clone mTy8421/E-commerce
 ```
 
 > ใช้สำหรับพัฒนาและศึกษาได้เท่านั้น!!
-
-[website](https://mty8421.github.io/E-commerce/)
